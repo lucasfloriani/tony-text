@@ -1,2 +1,2 @@
-const tonyText = (text) => `${text} - Tony 2021`
-module.exports = tonyText
+const tonyText = (text) => `${text} - Tony 2022`;
+module.exports = tonyText;
